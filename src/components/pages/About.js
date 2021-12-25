@@ -28,10 +28,8 @@ const About = () => {
               color: '#5f6368',
             }}
           >
-            Hey, thanks for visiting my Google Meet Clone. This is a one to one
-            video chat and messaging app based on Google Meet UI. <br />{' '}
-            Messaging supports group chat but there is no option of group video
-            chat...yet. I will be adding feature of group video chat in future.
+            This is still under construction<br />{' '}
+        
           </p>
           <h2
             style={{
@@ -61,7 +59,7 @@ const About = () => {
           <Me>
             <p>
               <h4 style={{ color: '#5f6368' }}> Designed and developed by </h4>
-              <h1 style={{ color: 'var(--font-color-3)' }}>Pranav Shukla.</h1>
+              <h1 style={{ color: 'var(--font-color-3)' }}>John Oseni</h1>
             </p>
             <div></div>
             <p>
